@@ -1,8 +1,8 @@
 package com.googlog.www.hsslazylibrary.util;
 
 /**
- * 作者：liujingyuan on 2015/12/11 13:24
- * 邮箱：906514731@qq.com
+ *
+ * @author hss
  */
 
 import android.content.Context;

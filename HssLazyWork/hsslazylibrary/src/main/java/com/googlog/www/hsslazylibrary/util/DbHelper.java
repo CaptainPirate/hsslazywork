@@ -3,7 +3,8 @@ package com.googlog.www.hsslazylibrary.util;
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-import com.github.lazylibrary.constant.DbConstants;
+
+import com.googlog.www.hsslazylibrary.constant.DbConstants;
 
 /**
  * db helper
